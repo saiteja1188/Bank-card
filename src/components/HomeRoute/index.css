@@ -1,0 +1,18 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+.home-heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 56px;
+  font-weight: 500;
+}

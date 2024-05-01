@@ -1,0 +1,24 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  padding: 50px 0px;
+}
+
+.header-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.logout-button {
+  border: 1px solid #ffffff;
+  font-family: roboto;
+  font-size: 16px;
+  background-color: transparent;
+  padding: 8px 20px;
+  color: #ffffff;
+  cursor: pointer;
+}
